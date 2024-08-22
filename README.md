@@ -21,7 +21,7 @@ Ensure you have Python 3.8 or later installed.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/prakashdatasintist/Symplique_assignment.git
    cd your-repo
    ```
 2. **Create a virtual environment (optional but recommended):**
@@ -108,4 +108,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or comments, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or comments, please contact [prakashmkumbar04@gmail.com](mailto:your-email@example.com).
